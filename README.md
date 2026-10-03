@@ -42,7 +42,7 @@ Additional regression analysis explored whether geographical differences influen
 ## Project Files
 
 - `Analyze_AB_Test_Results.ipynb` — Complete Python analysis.
-- `Analyze_AB_Test_Results_Completed.pdf` — Business-facing presentation.
+- `Analyze_AB_Test_Results.pdf` — Business-facing presentation.
 - `ab_data.csv` — Experiment dataset, where redistribution is permitted.
 
 ## Business Recommendation
